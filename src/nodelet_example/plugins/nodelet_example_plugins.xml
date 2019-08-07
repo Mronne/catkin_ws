@@ -1,0 +1,9 @@
+<library path="lib/libnodelet_example">
+	<class name="nodelet_example/CoreNode" 
+		   type="nodelet_example_ns::NodeletExampleClass"
+		   base_class_type="nodelet::Nodelet">
+		<description>
+			NodeletExampleClass.
+		</description>
+	</class>
+</library>
