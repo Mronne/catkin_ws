@@ -1,9 +1,0 @@
-<launch>
-	<!-- $ rosrun nodelet nodelet manager __name:=nodelet_example_manager -->
-	
-    <node name="CoreNode" pkg="nodelet_example" type="CoreNode" output="screen" >
-	</node>
-</launch>
-
-
-    
